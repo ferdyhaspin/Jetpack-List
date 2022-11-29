@@ -1,3 +1,3 @@
 # Jetpack-List
 
-- Lazy Layout
+- Lazy Layout Jetpack Compose
